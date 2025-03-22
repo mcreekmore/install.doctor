@@ -12,6 +12,7 @@
     "gnome"
     "go"
     "hopenpgp-tools"
+    "inetutils"
     "libaio"
     "libxcursor"
     "libxi"
